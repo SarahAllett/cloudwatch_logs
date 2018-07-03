@@ -1,6 +1,6 @@
 #! /usr/bin/env bash
 
-#OSX specific. Times are [[[mm]dd]HH]MM[[cc]yy][.ss]
+# OSX specific. Times are [[[mm]dd]HH]MM[[cc]yy][.ss]
 
 start_time=$(date -ju 07021750 +"%s")000
 end_time=$(date -ju 07021800 +"%s")000
